@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=300&section=header&text=HELLO!👋%20Welcome%20to%20my%20github!&fontSize=48)
-### Welcome to my github! 👋
 
 <!--
 **realiron00/realiron00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
