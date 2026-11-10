@@ -105,7 +105,6 @@
 
 ## 🔐 Background: Cryptography
 
-학부(정보보안암호수학과) 시절 블록암호를 직접 구현하며 암호 기초를 다졌습니다.
 → [AES](https://github.com/realiron00/AES) · [RC6](https://github.com/realiron00/RC6) · [SIMON](https://github.com/realiron00/SIMON) · [Blowfish](https://github.com/realiron00/blowfish) · [TOTP](https://github.com/realiron00/TOTP)
 
 ---
